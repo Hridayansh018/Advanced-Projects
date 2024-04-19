@@ -20,10 +20,7 @@
 
 7. **Main Loop**:
    - The script enters the main event loop (`mainloop()`) to display the window and handle user interactions. This loop listens for user actions such as button clicks and updates the GUI accordingly.
-   
-```
-In summary, the code sets up a GUI login interface with Tkinter,
-where users can enter their credentials. If the login is successful,
-it opens a calculator window where users can perform basic arithmetic operations.
-The script utilizes functions to handle user inputs and update the interface dynamically.
-```
+
+'''
+In summary, the code sets up a GUI login interface with Tkinter, where users can enter their credentials. If the login is successful, it opens a calculator window where users can perform basic arithmetic operations. The script utilizes functions to handle user inputs and update the interface dynamically.
+'''
